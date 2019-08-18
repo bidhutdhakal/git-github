@@ -1,3 +1,5 @@
 this is my training
 
 I am java developer and I am developing and gaming project
+
+now i am learning from my git hub to the working directory.
